@@ -1,24 +1,24 @@
 ## NovaMart Sales Efficiency & Growth Analysis  
 
-* **Problem**
+### **Problem**
 NovaMart faces significant revenue inefficiencies, highlighted by a ₹30.5M gap against its sales target. This challenge is amplified by broad, un-targeted promotional spending, high inventory complexity from product/supplier fragmentation, and inconsistent operational performance across different regional markets.
-* **Dataset**
+### **Dataset**
 A multi-format retail business dataset consisting of raw CSV, Excel, TSV, and JSONL files containing transaction logs, store characteristics, geographic regions, monthly sales/profit targets, customer demographics, and product details.
-* **Approach**
+### **Approach**
 Built an end-to-end data pipeline starting with Python (Pandas & SQLAlchemy) to ingest multi-format files into a PostgreSQL staging environment. Developed robust SQL transformation layers to clean, deduplicate (via window functions), and handle missing values. Engineered a structured star-schema analytical warehouse consisting of five dimension tables (dim_customers, dim_stores, dim_products, dim_date) and two fact tables (fact_sales, fact_targets) to conduct diagnostic commercial analysis.
-* **Dashboard**
+### **Dashboard**
 An analytical warehouse environment and business reporting framework mapped to evaluate store-level monthly targets, track customer value metrics, assess SKU density, and compare regional performance matrices. (Note: Paste your Power BI/dashboard screenshot or embed link here to complete this section).
-* **Key Findings**
+### **Key Findings**
   * **Target Achievement:** Diagnosed a stark ₹30.5M deficit between actual performance and sales targets.
   * **Customer Value:** Established critical baseline metrics showing an Average Order Value (AOV) of ~₹3K and an overall annual value of ₹42.79K per customer.
   * **Assortment Fragmentation:** Identified extreme catalog fragmentation with 150 unique products spread across 147 different brands, leading to unnecessary inventory complexity.
    * **Regional Variation:** Uncovered pockets of highly successful, top-performing stores concentrated in specific cities, contrasting sharply with underperforming markets.
-* **Recommendations**
+### **Recommendations**
   * **Precision Targeting:** Pivot away from blanket promotions and redirect capital and marketing resources specifically toward underperforming regions and high-margin product categories.
    * **Basket-Size Expansion:** Deploy product bundling, cross-selling strategies, and personalized recommendations to increase the current ~₹3K Average Order Value.
    * **SKU Rationalization:** Aggressively eliminate underperforming items and consolidate suppliers to decrease product fragmentation and lower backend inventory costs.
    * **Operational Playbooks:** Standardize the merchandising and operational practices of top-performing stores into repeatable playbooks to scale up weaker regional markets.
-* **Tools**
+ ### **Tools**
 Python, Pandas, SQLAlchemy, PostgreSQL, SQL (PostgreSQL dialect), Jupyter Notebook, MS Excel / CSV / JSONL.
 
 **Screenshots:**  
