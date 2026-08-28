@@ -1,0 +1,13 @@
+store_id	store_name	city	state	region	store_type
+101	Flagship T Nagar	Chennai	Tamil Nadu	South	Flagship
+102	Anna Nagar Express	Chennai	Tamil Nadu	South	Express
+103	Indiranagar Central	Bengaluru	Karnataka	South	Flagship
+104	Koramangala Mini	Bengaluru	Karnataka	South	Express
+105	Bandra Hub	Mumbai	Maharashtra	West	Flagship
+106	Andheri Outlet	Mumbai	Maharashtra	West	Outlet
+107	Connaught Place Mega	Delhi	Delhi	North	Flagship
+108	Saket Express	Delhi	Delhi	North	Express
+109	Salt Lake Plaza	Kolkata	West Bengal	East	Flagship
+110	Gachibowli Tech	Hyderabad	Telangana	South	Standard
+111	Hitec City Hub	Hyderabad	Telangana	South	Flagship
+112	Kothrud Store	Pune	Maharashtra	West	Standard

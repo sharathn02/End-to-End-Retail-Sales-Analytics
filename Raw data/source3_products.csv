@@ -1,0 +1,151 @@
+product_id,product_name,category,subcategory,brand,cost_price,selling_price
+P0001,Srinivasan Porro Smartphone,Electronics,Smartphones,Srinivasan,5945.33,7492.31
+P0002,Dasgupta Culpa Footwear,Apparel,Footwear,Dasgupta,864.84,1282.82
+P0003,"Mallick, Harum Audio",Electronics,Audio,"Mallick,",302.67,360.83
+P0004,"Goyal, Provident Footwear",Apparel,Footwear,"Goyal,",4836.05,6782.85
+P0005,Devan Quisquam Skincare,Personal Care,Skincare,Devan,3621.21,4617.72
+P0006,"Batra, Quas Laptop",Electronics,Laptops,"Batra,",5600.21,7297.7
+P0007,D’Alia Amet Men's Wear,Apparel,Men's Wear,D’Alia,7659.84,9969.03
+P0008,Hora Impedit Audio,Electronics,Audio,Hora,818.9,1254.04
+P0009,Chaudry-Kapur Sunt Cookware,Home & Kitchen,Cookware,Chaudry-Kapur,5851.37,8141.03
+P0010,Ramesh-Chanda Debitis Skincare,Personal Care,Skincare,Ramesh-Chanda,4438.72,6761.2
+P0011,"Mane, Culpa Small Appliance",Home & Kitchen,Small Appliances,"Mane,",1578.69,1864.91
+P0012,Rajan-Solanki Odit Women's Wear,Apparel,Women's Wear,Rajan-Solanki,7882.51,12098.81
+P0013,Peri Rerum Audio,Electronics,Audio,Peri,2259.89,3245.33
+P0014,Maharaj Corporis Cookware,Home & Kitchen,Cookware,Maharaj,2992.94,3724.05
+P0015,Ramesh Praesentium Small Appliance,Home & Kitchen,Small Appliances,Ramesh,7496.4,10806.93
+P0016,Warrior Beatae Footwear,Apparel,Footwear,Warrior,5846.56,7153.45
+P0017,Sastry-Banik Nulla Haircare,Personal Care,Haircare,Sastry-Banik,7916.71,11384.23
+P0018,Barad Nulla Footwear,Apparel,Footwear,Barad,2628.05,3930.88
+P0019,Murthy-Loyal Quisquam Laptop,,Laptops,Murthy-Loyal,6583.33,9955.78
+P0020,Gola Neque Haircare,Personal Care,Haircare,Gola,576.2,899.4
+P0021,Chandra Iure Cookware,Home & Kitchen,Cookware,Chandra,5260.74,-199.0
+P0022,Patel Vitae Skincare,Personal Care,Skincare,Patel,2155.8,2718.43
+P0023,Oak-Salvi Ex Small Appliance,Home & Kitchen,Small Appliances,Oak-Salvi,4697.46,7299.95
+P0024,Bala-Kant Placeat Haircare,Personal Care,Haircare,Bala-Kant,1793.6,2867.77
+P0025,Bhavsar-Oza Dolores Skincare,Personal Care,Skincare,Bhavsar-Oza,6058.47,9314.88
+P0026,Rana-Saxena Molestiae Footwear,Apparel,Footwear,Rana-Saxena,1321.86,1924.91
+P0027,Koshy Fugiat Audio,Electronics,Audio,Koshy,3083.87,4928.81
+P0028,Majumdar-Ramaswamy At Small Appliance,Home & Kitchen,Small Appliances,Majumdar-Ramaswamy,6893.2,7962.79
+P0029,"Krishnamurthy, Maxime Accessorie",Electronics,Accessories,"Krishnamurthy,",6160.36,8027.44
+P0030,Gill Explicabo Decor,Home & Kitchen,Decor,Gill,1307.35,1505.36
+P0031,Shukla Eligendi Small Appliance,Home & Kitchen,Small Appliances,Shukla,6107.6,8419.06
+P0032,Pal Voluptatem Accessorie,,Accessories,Pal,6741.27,9292.49
+P0033,Sur Similique Men's Wear,Apparel,Men's Wear,Sur,3022.62,3695.75
+P0034,"Bhardwaj, Soluta Accessorie",Electronics,Accessories,"Bhardwaj,",3934.42,4722.64
+P0035,Prasad-Pillay Quaerat Decor,Home & Kitchen,Decor,Prasad-Pillay,1953.65,2458.46
+P0036,"Saini, Consectetur Smartphone",Electronics,Smartphones,"Saini,",5868.67,8904.01
+P0037,Mammen-Memon Quos Men's Wear,Apparel,Men's Wear,Mammen-Memon,5295.02,8345.39
+P0038,Zachariah-Jayaraman Doloribus Women's Wear,Apparel,Women's Wear,Zachariah-Jayaraman,4245.01,6040.51
+P0039,Krishnamurthy-Patel Laudantium Footwear,Apparel,Footwear,Krishnamurthy-Patel,6054.36,8842.03
+P0040,"Chana, Eveniet Decor",Home & Kitchen,Decor,"Chana,",7961.44,11483.94
+P0041,Naidu Consequatur Fragrance,Personal Care,Fragrances,Naidu,3639.31,4591.2
+P0042,Soni Repellat Accessorie,Electronics,Accessories,Soni,217.22,303.95
+P0043,Narain-Salvi A Men's Wear,Apparel,Men's Wear,Narain-Salvi,614.4,881.05
+P0044,Hegde-Lall Dolor Men's Wear,Apparel,Men's Wear,Hegde-Lall,7248.09,11139.13
+P0045,More Atque Laptop,Electronics,Laptops,More,2263.89,3097.99
+P0046,"Tripathi, Velit Footwear",Apparel,Footwear,"Tripathi,",7487.34,-199.0
+P0047,Natt Accusantium Skincare,Personal Care,Skincare,Natt,6287.72,9515.67
+P0048,Edwin-Nagy At Men's Wear,Apparel,Men's Wear,Edwin-Nagy,820.6,1102.86
+P0049,"Dasgupta, Soluta Haircare",Personal Care,Haircare,"Dasgupta,",3762.85,5561.81
+P0050,"Lata, Velit Smartphone",Electronics,Smartphones,"Lata,",3250.84,4234.82
+P0051,Chakraborty Deserunt Laptop,Electronics,Laptops,Chakraborty,1573.14,2188.75
+P0052,Wason-Gour Eligendi Women's Wear,Apparel,Women's Wear,Wason-Gour,1508.73,2049.13
+P0053,Chandran Voluptatum Audio,Electronics,Audio,Chandran,6473.78,9938.45
+P0054,Yogi-Lanka In Smartphone,Electronics,Smartphones,Yogi-Lanka,5234.55,7293.11
+P0055,"Sharaf, Reiciendis Smartphone",Electronics,Smartphones,"Sharaf,",7414.62,0.0
+P0056,"Mahajan, Voluptatum Women's Wear",Apparel,Women's Wear,"Mahajan,",3910.85,4873.65
+P0057,"Chopra, Nulla Skincare",Personal Care,Skincare,"Chopra,",1358.87,1564.02
+P0058,Wagle Laudantium Haircare,Personal Care,Haircare,Wagle,7415.82,11148.26
+P0059,Mitra-Dubey Iure Decor,Home & Kitchen,Decor,Mitra-Dubey,5587.9,8262.98
+P0060,Chander Iure Skincare,Personal Care,Skincare,Chander,1559.69,1946.44
+P0061,Nazareth Odio Smartphone,Electronics,Smartphones,Nazareth,5996.41,7050.13
+P0062,Das Facere Fragrance,Personal Care,Fragrances,Das,7359.13,10221.88
+P0063,Mann-Sahota Maxime Smartphone,Electronics,Smartphones,Mann-Sahota,6818.17,8051.13
+P0064,Oommen-Parekh In Laptop,Electronics,Laptops,Oommen-Parekh,3260.02,5130.35
+P0065,"Kunda, Incidunt Footwear",Apparel,Footwear,"Kunda,",4776.43,6824.19
+P0066,Setty Dolorem Fragrance,Personal Care,Fragrances,Setty,4690.19,6497.1
+P0067,"Sangha, Quidem Cookware",Home & Kitchen,Cookware,"Sangha,",5374.32,6940.3
+P0068,Sachdev Corporis Decor,Home & Kitchen,Decor,Sachdev,1090.48,1570.81
+P0069,Bala Cupiditate Haircare,Personal Care,Haircare,Bala,7435.7,11682.08
+P0070,Sanghvi Itaque Audio,Electronics,Audio,Sanghvi,4988.22,7000.2
+P0071,"Radhakrishnan, Corrupti Smartphone",Electronics,Smartphones,"Radhakrishnan,",4324.19,5957.21
+P0072,"Divan, Nihil Women's Wear",Apparel,Women's Wear,"Divan,",7052.87,0.0
+P0073,Dugar-Natt Nam Decor,Home & Kitchen,Decor,Dugar-Natt,1304.09,1988.98
+P0074,Suresh Voluptates Small Appliance,,Small Appliances,Suresh,7871.63,11911.31
+P0075,Patel Reiciendis Accessorie,Electronics,Accessories,Patel,7457.46,8923.7
+P0076,Aggarwal Odit Women's Wear,Apparel,Women's Wear,Aggarwal,967.66,1159.42
+P0077,Som-Padmanabhan Non Women's Wear,,Women's Wear,Som-Padmanabhan,2289.96,2850.5
+P0078,"Bahl, Quaerat Cookware",Home & Kitchen,Cookware,"Bahl,",5515.6,8459.89
+P0079,Bhardwaj Distinctio Haircare,,Haircare,Bhardwaj,7247.43,11093.98
+P0080,Anand-Keer Cumque Audio,Electronics,Audio,Anand-Keer,6643.32,7771.62
+P0081,"Tella, Voluptas Cookware",Home & Kitchen,Cookware,"Tella,",5115.05,6485.27
+P0082,"Kadakia, Nostrum Fragrance",Personal Care,Fragrances,"Kadakia,",5660.06,7937.71
+P0083,Balay-Bumb Provident Smartphone,Electronics,Smartphones,Balay-Bumb,7563.15,11049.45
+P0084,"Baral, Aperiam Footwear",Apparel,Footwear,"Baral,",336.42,442.78
+P0085,"Setty, Assumenda Women's Wear",Apparel,Women's Wear,"Setty,",1063.19,-199.0
+P0086,Bhavsar-Parmer Quis Accessorie,Electronics,Accessories,Bhavsar-Parmer,1720.11,2171.27
+P0087,Chaudhry Culpa Accessorie,Electronics,Accessories,Chaudhry,6251.92,9677.1
+P0088,"Badal, Nemo Fragrance",Personal Care,Fragrances,"Badal,",6008.35,9412.64
+P0089,Kant-Prabhakar Corrupti Men's Wear,Apparel,Men's Wear,Kant-Prabhakar,7810.84,11832.23
+P0090,Trivedi-Palan Aliquid Skincare,Personal Care,Skincare,Trivedi-Palan,1475.92,2311.32
+P0091,Nori Ea Fragrance,Personal Care,Fragrances,Nori,6919.31,10481.63
+P0092,Rai-Ratti Officiis Cookware,Home & Kitchen,Cookware,Rai-Ratti,6309.63,7562.99
+P0093,Majumdar Voluptate Audio,Electronics,Audio,Majumdar,1818.35,2759.28
+P0094,Chakrabarti Excepturi Haircare,Personal Care,Haircare,Chakrabarti,2476.27,3733.98
+P0095,Bal Accusamus Men's Wear,Apparel,Men's Wear,Bal,238.13,294.54
+P0096,"Jhaveri, Expedita Decor",Home & Kitchen,Decor,"Jhaveri,",6921.61,10971.44
+P0097,"Bumb, Qui Decor",Home & Kitchen,Decor,"Bumb,",5149.78,6848.46
+P0098,Om-Iyengar Aspernatur Cookware,Home & Kitchen,Cookware,Om-Iyengar,966.97,1534.27
+P0099,"Yogi, Porro Footwear",Apparel,Footwear,"Yogi,",7702.15,9777.57
+P0100,"Chand, Dolorem Audio",Electronics,Audio,"Chand,",2798.21,4208.21
+P0101,Mammen-De Accusamus Fragrance,Personal Care,Fragrances,Mammen-De,7874.68,9465.69
+P0102,De-Mammen Nihil Women's Wear,Apparel,Women's Wear,De-Mammen,402.87,542.35
+P0103,Divan-Kadakia Mollitia Women's Wear,Apparel,Women's Wear,Divan-Kadakia,3478.81,5486.06
+P0104,"Bumb, Adipisci Small Appliance",Home & Kitchen,Small Appliances,"Bumb,",2545.63,3898.9
+P0105,Sinha-Boase Culpa Small Appliance,Home & Kitchen,Small Appliances,Sinha-Boase,2508.81,3346.19
+P0106,Chand-Deshpande Voluptas Fragrance,Personal Care,Fragrances,Chand-Deshpande,2400.46,2898.03
+P0107,Basu-Dash Vel Fragrance,Personal Care,Fragrances,Basu-Dash,7525.89,10948.61
+P0108,"Bir, Eaque Footwear",Apparel,Footwear,"Bir,",4574.39,6096.44
+P0109,Sant-Sarma Architecto Accessorie,Electronics,Accessories,Sant-Sarma,2330.96,3131.53
+P0110,Anand Illo Decor,Home & Kitchen,Decor,Anand,3562.2,5179.55
+P0111,Bhatt Quaerat Fragrance,Personal Care,Fragrances,Bhatt,1399.05,1662.29
+P0112,"Kurian, Dolore Cookware",Home & Kitchen,Cookware,"Kurian,",6556.47,9756.11
+P0113,Mammen-Doshi Voluptatem Cookware,Home & Kitchen,Cookware,Mammen-Doshi,6462.18,7860.01
+P0114,Shenoy Maxime Laptop,Electronics,Laptops,Shenoy,7872.29,11218.59
+P0115,"Bhattacharyya, Doloremque Audio",Electronics,Audio,"Bhattacharyya,",3344.81,4794.43
+P0116,Sur-Bobal Repellendus Footwear,Apparel,Footwear,Sur-Bobal,5586.02,7666.64
+P0117,Patla-Som Nesciunt Men's Wear,Apparel,Men's Wear,Patla-Som,5265.66,6068.65
+P0118,"Zacharia, Molestias Audio",Electronics,Audio,"Zacharia,",1789.79,2705.89
+P0119,Peri Qui Skincare,,Skincare,Peri,4481.38,7003.78
+P0120,Ahluwalia-Bhattacharyya Animi Audio,Electronics,Audio,Ahluwalia-Bhattacharyya,1110.05,1508.66
+P0121,Keer Numquam Decor,Home & Kitchen,Decor,Keer,4920.59,7251.34
+P0122,Sibal Vitae Fragrance,Personal Care,Fragrances,Sibal,3595.01,4391.74
+P0123,Aggarwal-Soni Dignissimos Haircare,Personal Care,Haircare,Aggarwal-Soni,2110.57,2661.97
+P0124,Pradhan-Venkatesh Saepe Small Appliance,Home & Kitchen,Small Appliances,Pradhan-Venkatesh,3902.55,4908.08
+P0125,Trivedi Rem Skincare,Personal Care,Skincare,Trivedi,5722.68,7184.95
+P0126,"Ray, Amet Decor",Home & Kitchen,Decor,"Ray,",7149.56,8481.24
+P0127,Basak-Tak Libero Men's Wear,Apparel,Men's Wear,Basak-Tak,3095.13,3772.23
+P0128,Mani Harum Men's Wear,Apparel,Men's Wear,Mani,3348.2,4348.97
+P0129,Rattan Fugiat Haircare,Personal Care,Haircare,Rattan,545.01,831.03
+P0130,Sachdev-Chad Nesciunt Fragrance,Personal Care,Fragrances,Sachdev-Chad,7571.19,8773.41
+P0131,Chhabra Dolores Haircare,Personal Care,Haircare,Chhabra,96.87,126.73
+P0132,"Shere, At Haircare",Personal Care,Haircare,"Shere,",4328.85,6409.23
+P0133,Parikh Ullam Women's Wear,Apparel,Women's Wear,Parikh,1794.4,2415.49
+P0134,"Nayar, Quo Audio",Electronics,Audio,"Nayar,",2722.23,3962.52
+P0135,Balay Reprehenderit Fragrance,Personal Care,Fragrances,Balay,1362.11,1852.91
+P0136,Kala-Iyengar Ad Footwear,Apparel,Footwear,Kala-Iyengar,4296.28,6694.11
+P0137,Agate-Kade Impedit Smartphone,Electronics,Smartphones,Agate-Kade,5159.86,6248.92
+P0138,Sanghvi-Patel Dolor Skincare,Personal Care,Skincare,Sanghvi-Patel,449.76,593.95
+P0139,Khatri Accusamus Women's Wear,Apparel,Women's Wear,Khatri,2648.42,3952.91
+P0140,Dhawan Expedita Haircare,Personal Care,Haircare,Dhawan,6028.48,9189.61
+P0141,"Sane, Maiores Cookware",Home & Kitchen,Cookware,"Sane,",3788.94,5634.38
+P0142,"Sahni, Adipisci Accessorie",Electronics,Accessories,"Sahni,",1832.57,2164.04
+P0143,"Halder, Similique Smartphone",Electronics,Smartphones,"Halder,",7599.41,9421.08
+P0144,"Acharya, Veritatis Laptop",Electronics,Laptops,"Acharya,",1946.43,2653.18
+P0145,"Hora, Ipsa Laptop",Electronics,Laptops,"Hora,",3747.02,4741.14
+P0146,"Keer, Magnam Cookware",Home & Kitchen,Cookware,"Keer,",4866.85,7707.54
+P0147,Sharaf Magnam Laptop,Electronics,Laptops,Sharaf,7719.53,9252.97
+P0148,Loke-Kakar Laboriosam Accessorie,Electronics,Accessories,Loke-Kakar,4627.58,7212.6
+P0149,Bhavsar Amet Haircare,Personal Care,Haircare,Bhavsar,7534.69,9337.35
+P0150,"Lanka, Tempore Men's Wear",Apparel,Men's Wear,"Lanka,",5592.68,7190.58
