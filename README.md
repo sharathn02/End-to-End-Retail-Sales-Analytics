@@ -3,7 +3,7 @@
 ### **Problem**
 NovaMart faces significant revenue inefficiencies, highlighted by a ₹30.5M gap against its sales target. This challenge is amplified by broad, un-targeted promotional spending, high inventory complexity from product/supplier fragmentation, and inconsistent operational performance across different regional markets.
 ### **Dataset**
-A multi-format retail business dataset consisting of raw CSV, Excel, TSV, and JSONL files containing transaction logs, store characteristics, geographic regions, monthly sales/profit targets, customer demographics, and product details.
+A multi-format synthetic retail business dataset created through python intentionally injected errors consisting of raw CSV, Excel, TSV, and JSONL files containing transaction logs, store characteristics, geographic regions, monthly sales/profit targets, customer demographics, and product details.
 ### **Approach**
 Built an end-to-end data pipeline starting with Python (Pandas & SQLAlchemy) to ingest multi-format files into a PostgreSQL staging environment. Developed robust SQL transformation layers to clean, deduplicate (via window functions), and handle missing values. Engineered a structured star-schema analytical warehouse consisting of five dimension tables (dim_customers, dim_stores, dim_products, dim_date) and two fact tables (fact_sales, fact_targets) to conduct diagnostic commercial analysis.
 ### **Dashboard**
