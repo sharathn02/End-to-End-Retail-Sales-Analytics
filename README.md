@@ -21,7 +21,7 @@ An analytical warehouse environment and business reporting framework mapped to e
  ### **Tools**
 Python, Pandas, SQLAlchemy, PostgreSQL, SQL (PostgreSQL dialect), Jupyter Notebook, MS Excel / CSV / JSONL.
 
-**Screenshots:**  
+### **Screenshots:**  
 **Executive Overview**  
 <img width="1290" height="726" alt="Executive Overview BI" src="https://github.com/user-attachments/assets/c3c06981-5c26-481d-9302-9a95d0786ef9" />
 **Store Analysis**  
